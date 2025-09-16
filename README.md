@@ -66,7 +66,7 @@ A complete and efficient console-based Student Management System written in pure
 
 ## 👨‍💻 Developer
 
-YOUR_NAME - [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_USERNAME)
+BEZI - [@BeziKaviani](https://github.com/BeziKaviani)
 
 ## 📜 License
 
